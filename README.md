@@ -1,4 +1,3 @@
-# tasktracker-projeto
 # TaskTracker 
 Sistema de Interface de Linha de Comando (CLI) para gerenciamento de tarefas, desenvolvido como parte da Fase 2 do Bootcamp II.
 
