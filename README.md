@@ -11,10 +11,5 @@ Sistema de Interface de Linha de Comando (CLI) para gerenciamento de tarefas, de
 - Python 3
 - Git & GitHub
 
-## Como Executar
-1. Clone o repositório: `git clone <link-do-seu-repositorio>`
-2. Acesse a pasta: `cd tasktracker-projeto`
-3. Execute a aplicação: `python src/main.py`
-
 ## Autor
 Miguel Costa Campos - Ciência da Computação (UniCEUB)
