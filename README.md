@@ -12,10 +12,10 @@ Sistema de Interface de Linha de Comando (CLI) para gerenciamento de tarefas, de
 - Python 3
 - Módulo `json` e `os` (Biblioteca Padrão do Python)
 
-## Como Executar
+##  Como Executar com Docker
+Certifique-se de que tem o Docker e o Docker Compose instalados.
 
-1. Certifique-se de ter o Python 3 instalado no seu computador.
-2. Faça o download dos arquivos do projeto e extraia-os em uma pasta no seu computador.
-3. Abra o seu terminal (Prompt de Comando, PowerShell ou terminal do VS Code).
-4. Navegue até a pasta raiz do projeto onde os arquivos foram extraídos.
-5. Inicie a aplicação
+1. Clone o repositório e aceda à pasta raiz do projeto.
+2. Construa a imagem e inicie o contentor em modo interativo executando:
+   `docker-compose run --build tasktracker-app`
+3. O menu do TaskTracker aparecerá automaticamente no seu terminal.
